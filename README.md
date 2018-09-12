@@ -3,7 +3,7 @@
 
 ## Getting started
 
-`$ npm install react-native-android-video-view --save`
+`$ npm install  --save https://github.com/khjde1207/react-native-android-VideoView`
 
 ### Mostly automatic installation
 
